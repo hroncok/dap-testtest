@@ -1,6 +1,6 @@
 package_name: testtest
-version: 0.0.1dev
-license: FIXME
+version: 0.0.1
+license: MIT
 summary: A fresh new DAP
-homepage: FIXME
+homepage: https://github.com/hroncok/dap-testtest
 authors: [Miro Hrončok <miro@hroncok.cz>]
