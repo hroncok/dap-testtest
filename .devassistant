@@ -1,0 +1,20 @@
+dependencies: []
+devassistant_version: 0.10.1
+original_kwargs:
+  author: !!python/unicode '$(git config --global user.name)'
+  bugreports: !!python/unicode ''
+  crt: !!python/unicode ''
+  description: !!python/unicode ''
+  dirname: !!python/unicode ''
+  email: !!python/unicode '$(git config --global user.email)'
+  extra: !!python/unicode ''
+  homepage: !!python/unicode 'FIXME'
+  license: !!python/unicode 'FIXME'
+  name: !!python/unicode 'testtest'
+  prep: !!python/unicode ''
+  snippet: !!python/unicode ''
+  summary: !!python/unicode 'A fresh new DAP'
+  twk: !!python/unicode ''
+  version: !!python/unicode '0.0.1dev'
+project_type:
+- dap

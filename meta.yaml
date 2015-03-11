@@ -1,0 +1,6 @@
+package_name: testtest
+version: 0.0.1dev
+license: FIXME
+summary: A fresh new DAP
+homepage: FIXME
+authors: [Miro Hrončok <miro@hroncok.cz>]
