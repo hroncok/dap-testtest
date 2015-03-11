@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.4"
+install:
+  - pip install devassistant
+  - da pkg install dap
+script:
+  - da twk dap pack
+  - da pkg lint *.dap
